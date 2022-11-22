@@ -6,9 +6,9 @@ This stylesheet allows you to change div widths based on Bootstrap 5 Breakpoints
 
 ## Getting Started
 
-Import using HTML: `<link rel="stylesheet" href="https://raw.githack.com/gtgtcode/bs-extrawidth/main/bs-extrawidth.css">`
+Import using HTML: `<link rel="stylesheet" href="https://rawcdn.githack.com/gtgtcode/bs-extrawidth/afcd9e2cf9f86ced07c7e422bfef3c452b356aa7/bs-extrawidth.css">`
 
-Import using CSS: `@import url("https://raw.githack.com/gtgtcode/bs-extrawidth/main/bs-extrawidth.css");`
+Import using CSS: `@import url("https://rawcdn.githack.com/gtgtcode/bs-extrawidth/afcd9e2cf9f86ced07c7e422bfef3c452b356aa7/bs-extrawidth.css");`
 
 ## Usage
 
