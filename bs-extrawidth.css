@@ -1,0 +1,105 @@
+/* 
+  Bootstrap 5 Extra Width Options
+  Classes that change width of an item based on Bootstrap 5 Breakpoints.
+*/
+
+/*For Bootstrap X-Large Breakpoint*/
+
+@media (max-width: 1399.98) { 
+  .xlg-w-25 {
+      width: 25% !important;
+    }
+
+  .xlg-w-50 {
+      width: 50% !important;
+    }
+
+  .xlg-w-75 {
+      width: 75% !important;
+    }
+
+  .xlg-w-100 {
+    width: 100% !important;
+  }
+}
+
+
+/*For Bootstrap Large Breakpoint*/
+
+@media (max-width: 1199.98px) {
+  .lg-w-25 {
+    width: 25% !important;
+  }
+
+  .lg-w-50 {
+      width: 50% !important;
+    }
+
+  .lg-w-75 {
+      width: 75% !important;
+    }
+
+  .lg-w-100 {
+    width: 100% !important;
+  }
+}
+
+  /*For Bootstrap Medium Breakpoint*/
+
+  @media (max-width: 991.98px) { 
+    .md-w-25 {
+        width: 25% !important;
+      }
+  
+    .md-w-50 {
+        width: 50% !important;
+      }
+  
+    .md-w-75 {
+        width: 75% !important;
+      }
+  
+    .md-w-100 {
+      width: 100% !important;
+    }
+  }
+
+ /*For Bootstrap Small Breakpoint*/
+
+@media (max-width: 767.98px) {
+    .sm-w-25 {
+      width: 25% !important;
+    }
+
+    .sm-w-50 {
+        width: 50% !important;
+      }
+
+    .sm-w-75 {
+        width: 75% !important;
+      }
+
+    .sm-w-100 {
+      width: 100% !important;
+    }
+  }
+
+/*For Bootstrap X-Small Breakpoint*/
+
+@media (max-width: 576.98px) { 
+  .xsm-w-25 {
+      width: 25% !important;
+    }
+
+  .xsm-w-50 {
+      width: 50% !important;
+    }
+
+  .xsm-w-75 {
+      width: 75% !important;
+    }
+
+  .xsm-w-100 {
+    width: 100% !important;
+  }
+}
